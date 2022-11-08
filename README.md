@@ -10,8 +10,8 @@ Junior Full Sack Web Developer
 * 🤝  I'm open to collaborating on React and Node Projects
 * ⚡  I'm open to learn and work with any organisation and I'm also available for collaborations
 
-<a href="https://www.github.com/RhinolamerSonwar" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/RhinolamerSonwar?logo=github&style=for-the-badge&color=22c55e&labelColor=27272a" /></a>
+<a href="https://www.github.com/LameckMeshack" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/LameckMeshack?logo=github&style=for-the-badge&color=22c55e&labelColor=27272a" /></a>
 
 ### Skills
 
@@ -52,11 +52,11 @@ src="https://img.shields.io/github/followers/RhinolamerSonwar?logo=github&style=
 
 <a href="http://www.github.com/RhinolamerSonwar"><img src="https://github-readme-stats.vercel.app/api?username=RhinolamerSonwar&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=3382ed&icon_color=22c55e&bg_color=27272a&hide_border=true&show_icons=true" alt="RhinolamerSonwar's GitHub stats" /></a>
 
-<a href="http://www.github.com/RhinolamerSonwar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RhinolamerSonwar&stroke=3382ed&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=3382ed&currStreakLabel=3382ed&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+<a href="http://www.github.com/LameckMeshack"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RhinolamerSonwar&stroke=3382ed&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=3382ed&currStreakLabel=3382ed&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<a href="http://www.github.com/RhinolamerSonwar"><img src="https://activity-graph.herokuapp.com/graph?username=RhinolamerSonwar&bg_color=27272a&color=3382ed&line=22c55e&point=3382ed&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/LameckMeshack"><img src="https://activity-graph.herokuapp.com/graph?username=RhinolamerSonwar&bg_color=27272a&color=3382ed&line=22c55e&point=3382ed&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/RhinolamerSonwar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhinolamerSonwar&langs_count=10&title_color=3382ed&text_color=3382ed&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/LameckMeshack" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhinolamerSonwar&langs_count=10&title_color=3382ed&text_color=3382ed&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
