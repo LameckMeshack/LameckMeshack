@@ -7,8 +7,8 @@ Full Stack Developer @ Software Technologies Limited Kenya
 * 🌍  I'm based in Remote, Nairobi
 * ✉️  You can contact me at [otienolameck327@gmail.com, rhinolamer@gmail.com](mailto:otienolameck327@gmail.com, rhinolamer@gmail.com)
 * 🧠  I'm learning Laravel, TypeScript and lots
-* 🤝  I'm open to collaborating on Laravel, Vue, React, Node
-* ⚡  You can call me Rhinp , Sonwar
+* 🤝  I'm open to collaborating on Laravel, Vue, React, Node, Nest, React Native
+* ⚡  You can call me Rhino , Sonwar
 
 <a href="https://www.github.com/LameckMeshack" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/LameckMeshack?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
