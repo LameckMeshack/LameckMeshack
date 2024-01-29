@@ -1,8 +1,8 @@
 Hi 👋 My name is Lameck Meshack Otieno
 ======================================
 
-Full Stack Developer @ Software Technologies Limited Kenya
-----------------------------------------------------------
+Developer @  Nathan Digital
+--------------------------
 
 * 🌍  I'm based in Remote, Nairobi
 * ✉️  You can contact me at [otienolameck327@gmail.com, rhinolamer@gmail.com](mailto:otienolameck327@gmail.com, rhinolamer@gmail.com)
