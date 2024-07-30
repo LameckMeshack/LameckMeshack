@@ -6,8 +6,8 @@ Developer @  Nathan Digital
 
 * 🌍  I'm based in Remote, Nairobi
 * ✉️  You can contact me at [otienolameck327@gmail.com, rhinolamer@gmail.com](mailto:otienolameck327@gmail.com, rhinolamer@gmail.com)
-* 🧠  I'm learning Laravel, TypeScript and lots
-* 🤝  I'm open to collaborating on Laravel, Vue, React, Node, Nest, React Native
+* 🧠  I'm learning Elixir, TypeScript, and lots
+* 🤝  I'm open to collaborating on Elixir, Laravel, Vue, React, Node, Nest, React Native
 * ⚡  You can call me Rhino , Sonwar
 
 <a href="https://www.github.com/LameckMeshack" target="_blank" rel="noreferrer"><img
